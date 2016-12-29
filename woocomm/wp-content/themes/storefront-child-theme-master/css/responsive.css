@@ -1,0 +1,274 @@
+@media only screen and (max-width: 1200px) {
+
+}
+
+@media only screen and (max-width: 1117px) {
+.c-buttons {
+	left: 10px;
+}
+
+.product-detail {
+	margin-top: -405px;
+	padding: 20px 0;
+}
+
+.product-detail h2 {
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 10px;
+}
+
+.button {
+	font-size: 16px;
+}
+
+.best-jewellery {
+	min-height: 350px;
+}
+
+.category-list li,
+.subscribe-form p {
+	font-size: 13px;
+}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.c-button {
+	font-size: 22px;
+}
+
+.navbar li {
+	margin: 0 10px;
+}
+
+.navbar li a {
+	font-size: 15px;
+}
+
+.search-icon {
+	margin-left: 15px;
+	margin-right: 20px;
+}
+
+.product-detail {
+	margin-top: -310px;
+}
+
+.product-list {
+	margin-bottom: 30px;
+	min-height: 340px;
+}
+
+.section-title:after  {
+	left: 37%;
+}
+
+.category-content {
+	min-height: 175px;
+}
+
+.best-jewellery {
+    min-height: 300px;
+}
+}
+
+@media only screen and (max-width: 767px) {
+header {
+	padding-top: 50px;
+}
+
+.c-buttons {
+	top: 10px;
+	left: 30px;
+}
+
+.navbar {
+	float: none;
+	margin-top: 28px;
+}
+
+.navbar-toggle {
+	border: 1px solid #fff;
+	margin-right: 20px;
+	margin-top: 0;
+}
+
+.navbar-toggle .icon-bar {
+	border: 2px solid #fff;
+}
+
+.navbar-nav {
+	margin: 0;
+}
+
+.navbar li {
+	margin: 0;
+}
+
+.navbar li a {
+	margin: 0;
+	padding: 15px 0;
+}
+
+.search-icon {
+	margin-right: 30px;
+	margin-top: 32px;
+}
+
+.search-open {
+	right: 20px;
+	top: 130px;
+}
+
+.product-detail {
+    margin-top: 30px;
+}
+
+.button {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#product-detail-slider .owl-nav {
+	top: 42%;
+}
+
+#product-detail-slider .owl-prev:before {
+	color: rgba(0, 0, 0, 0.3);
+	left: 10px;
+}
+
+#product-detail-slider .owl-next:before {
+	color: rgba(0, 0, 0, 0.3);
+	right: 10px;
+}
+
+.different-items {
+    padding: 40px 0;
+}
+
+.product-list {
+	background: #fff;
+	text-align: center;
+	width: 60%;
+    margin: 0 auto 30px;
+}
+
+.feature-products-list {
+	width: 60%;
+    margin: 0 auto 30px;
+}
+
+.section-title:after  {
+	left: 37%;
+}
+
+.category-content {
+	float: left;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.subscribe-form input {
+	width: 50%;
+}
+
+.best-jewellery {
+    min-height: 300px;
+}
+
+.footer-content h3 {
+	margin-bottom: 15px;
+}
+
+}
+
+@media only screen and (max-width: 640px) {
+.footer-bottom p {
+	display: block;
+	float: none;
+}
+
+.online-payment {
+    float: left;
+}
+
+.best-jewellery {
+    min-height: 250px;
+}
+}
+
+@media only screen and (max-width: 480px) {
+.category-content {
+	float: left;
+	margin-bottom: 20px;
+	width: 100%;
+}
+
+.product-list,
+.feature-products-list {
+	width: 100%;
+}
+
+.section-title:after {
+    left: 28%;
+}
+
+.best-jewellery {
+    min-height: 185px;
+}
+
+.subscribe-form input {
+	width: 100%;
+}
+}
+
+@media only screen and (max-width: 360px) {
+.logo-section {
+    width: 60%;
+}
+
+.navbar-toggle {
+	margin-right: 40px;
+	margin-top: -10px;
+}
+
+.section-title:after {
+    left: 20%;
+}
+
+.search-icon {
+	margin-top: 22px;
+}
+
+.search-open {
+	top: 120px;
+}
+
+.best-jewellery {
+    min-height: 120px;
+}
+}
+
+@media only screen and (max-width: 320px) {
+.section-title h2 {
+	font-size: 30px;
+}
+
+.section-title .see-all {
+	margin-left: 10px;
+}
+
+.section-title p {
+	line-height: 28px;
+}
+
+.section-title:after {
+    left: 16%;
+}
+
+.search-open input {
+	font-size: 14px;
+	padding: 2px 9px;
+}
+}
